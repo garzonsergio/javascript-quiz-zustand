@@ -1,0 +1,104 @@
+{
+  "javascript_questions": [
+    {
+      "question": "¿Qué es JavaScript?",
+      "options": [
+        "Un lenguaje de programación interpretado",
+        "Un lenguaje de marcado",
+        "Un sistema de gestión de bases de datos",
+        "Un framework de diseño gráfico"
+      ],
+      "answer": "Un lenguaje de programación interpretado"
+    },
+    {
+      "question": "¿Cuál es la diferencia entre 'let', 'const' y 'var' en JavaScript?",
+      "options": [
+        "'let' y 'const' tienen alcance de bloque, mientras que 'var' tiene alcance de función",
+        "'let' es mutable, 'const' es inmutable y 'var' no existe",
+        "'let' y 'var' son iguales, pero 'const' es diferente",
+        "No hay diferencia"
+      ],
+      "answer": "'let' y 'const' tienen alcance de bloque, mientras que 'var' tiene alcance de función"
+    },
+    {
+      "question": "¿Qué es una función flecha (arrow function) en JavaScript?",
+      "options": [
+        "Una función que se ejecuta automáticamente al cargar la página",
+        "Una sintaxis abreviada para escribir funciones anónimas",
+        "Una función que solo puede usarse dentro de objetos",
+        "Una función que siempre devuelve un valor"
+      ],
+      "answer": "Una sintaxis abreviada para escribir funciones anónimas"
+    },
+    {
+      "question": "¿Qué hace el método 'map()' en JavaScript?",
+      "options": [
+        "Filtra elementos de un array",
+        "Crea un nuevo array con los resultados de aplicar una función a cada elemento",
+        "Ordena un array",
+        "Reduce un array a un solo valor"
+      ],
+      "answer": "Crea un nuevo array con los resultados de aplicar una función a cada elemento"
+    },
+    {
+      "question": "¿Qué es el DOM en JavaScript?",
+      "options": [
+        "Un modelo de objetos que representa la estructura HTML/XML de una página web",
+        "Un tipo de variable",
+        "Un framework de JavaScript",
+        "Un lenguaje de programación"
+      ],
+      "answer": "Un modelo de objetos que representa la estructura HTML/XML de una página web"
+    },
+    {
+      "question": "¿Qué significa 'hoisting' en JavaScript?",
+      "options": [
+        "Mover variables y funciones al inicio del ámbito durante la compilación",
+        "Eliminar variables no utilizadas",
+        "Optimizar el rendimiento del código",
+        "Crear funciones anónimas"
+      ],
+      "answer": "Mover variables y funciones al inicio del ámbito durante la compilación"
+    },
+    {
+      "question": "¿Qué es una promesa (Promise) en JavaScript?",
+      "options": [
+        "Un objeto que representa la finalización o el fracaso eventual de una operación asíncrona",
+        "Un tipo de dato primitivo",
+        "Un bucle especial",
+        "Un módulo de Node.js"
+      ],
+      "answer": "Un objeto que representa la finalización o el fracaso eventual de una operación asíncrona"
+    },
+    {
+      "question": "¿Qué hace el operador '===' en JavaScript?",
+      "options": [
+        "Compara tanto el valor como el tipo de dos operandos",
+        "Compara solo el valor de dos operandos",
+        "Asigna un valor a una variable",
+        "Multiplica dos números"
+      ],
+      "answer": "Compara tanto el valor como el tipo de dos operandos"
+    },
+    {
+      "question": "¿Qué es el evento 'DOMContentLoaded' en JavaScript?",
+      "options": [
+        "Un evento que se dispara cuando el contenido HTML ha sido completamente cargado y analizado",
+        "Un evento que se dispara cuando se hace clic en un botón",
+        "Un evento que se dispara cuando se envía un formulario",
+        "Un evento que se dispara cuando cambia el tamaño de la ventana"
+      ],
+      "answer": "Un evento que se dispara cuando el contenido HTML ha sido completamente cargado y analizado"
+    },
+    {
+      "question": "¿Qué es el 'spread operator' (...) en JavaScript?",
+      "options": [
+        "Un operador que expande un iterable (como un array) en elementos individuales",
+        "Un operador que suma todos los elementos de un array",
+        "Un operador que filtra elementos de un array",
+        "Un operador que ordena un array"
+      ],
+      "answer": "Un operador que expande un iterable (como un array) en elementos individuales"
+    }
+  ]
+}
